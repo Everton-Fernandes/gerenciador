@@ -28,6 +28,17 @@
       "cost": 0,
       "services": [],
       "id": 3
+    },
+    {
+      "name": "testeProjeto",
+      "budget": "12354",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
     }
   ],
   "categories": [
