@@ -39,6 +39,17 @@
       "cost": 0,
       "services": [],
       "id": 4
+    },
+    {
+      "name": "Projeto1",
+      "budget": "120523",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 5
     }
   ],
   "categories": [
