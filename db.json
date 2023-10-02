@@ -12,8 +12,8 @@
       "id": 3
     },
     {
-      "name": "Projeto1",
-      "budget": "120523",
+      "name": "testando",
+      "budget": "120000",
       "category": {
         "id": "1",
         "name": "Infra"
@@ -21,6 +21,17 @@
       "cost": 0,
       "services": [],
       "id": 5
+    },
+    {
+      "name": "testandoNovoProjeto",
+      "budget": "153000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 6
     }
   ],
   "categories": [
