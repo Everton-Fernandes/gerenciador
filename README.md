@@ -1,3 +1,7 @@
+Site para gerenciar projetos
+![image](https://github.com/Everton-Fernandes/gerenciador/assets/62666145/e03940a6-ffae-4645-8083-9fcb6477154d)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
